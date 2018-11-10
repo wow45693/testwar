@@ -1,0 +1,10 @@
+1、在桌面testwar文件夹中放入你要上传的文件
+2、右键鼠标，选择“Git push here”，打开命令框
+3、git add --all
+4、git commit -m"add"
+5、git push   
+	314850824@qq.com
+	wangyun0429
+	
+	
+6、打开网页：https://github.com/WangYunT/testwar 看你添加的文件是否成功上传。
