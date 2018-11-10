@@ -1,5 +1,5 @@
 1、在桌面testwar文件夹中放入你要上传的文件
-2、右键鼠标，选择“Git push here”，打开命令框
+2、右键鼠标，选择“Git bash here”，打开命令框
 3、git add --all
 4、git commit -m"add"
 5、git push   
